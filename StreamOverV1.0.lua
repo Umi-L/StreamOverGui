@@ -1,4 +1,4 @@
---Made by Jbeam#1241 dm for help.
+--Made by Umi#1241 dm for help.
 
 --Fling script made by Diemiers#4209.
 
